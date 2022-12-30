@@ -9,7 +9,6 @@ I have 5 years of corporate experience as a Full Stack Java Developer/Scrum Mast
 
 Area of expertise :
 - Core Java, Spring MVC, Spring Boot, REST API design and development
-- Horizontally scalable and highly available systems design & development
 - Automating development workflows and deployment pipelines
 - Leveraging Micro-service architecture for system design and development
 - Designing and developing Web based applications
@@ -17,18 +16,17 @@ Area of expertise :
 
 Skills & Technologies:
 - Java/ Spring MVC/ Spring Boot
+- HTML/CSS, Javascript
 - Webservices/ RESTful API
 - Selenium and Junit 
 - PostgreSQL, MySQL, Oracle DB, MongoDB, ElasticSearch
 - Websphere, Weblogic, Tomcat Application Servers
 - Maven and ANT build tools
 - Git, Bitbucket, Subversion : version control tools
-- Code Quality: 
+- Code Quality : 
 - Digital Ocean, AWS, Azure Cloud Platforms
 - Eclipse/ Visual Studio Code IDEs
 - Linux, macOS, Windows 
-
-Interested in developing highly scalable distributed systems.
 
 <h2 align="left">Reach me at:</h2>
 
