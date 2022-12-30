@@ -1,11 +1,11 @@
 # Hello, 👋  I'm RACHITA</h1>
-### I am a Full Stack Java Developer and Product Enthusiast.</h2>
+### I am a Full Stack Java Developer and Product Enthusiast.</h6>
 
 <br>
 
 You can find me on [Linkedin](https://linkedin.com/in/atihcar), [Twitter](https://twitter.com/atihcars)
 
-<p>I have 5 years of corporate experience as a Full Stack Java Developer/Scrum Master in FinTech with Credit Suisse, Citibank, and Sun Life Financials; in both designing and developing software from scratch and maintaining large existing projects.
+I have 5 years of corporate experience as a Full Stack Java Developer/Scrum Master in FinTech with Credit Suisse, Citibank, and Sun Life Financials; in both designing and developing software from scratch and maintaining large existing projects.
 
 Area of expertise :
 - Core Java, Spring MVC, Spring Boot, Webservices, REST API design and development
