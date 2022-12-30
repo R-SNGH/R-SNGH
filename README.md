@@ -8,7 +8,7 @@ You can find me on [Linkedin](https://linkedin.com/in/atihcar), [Twitter](https:
 I have 5 years of corporate experience as a Full Stack Java Developer/Scrum Master in FinTech with Credit Suisse, Citibank, and Sun Life Financials; in both designing and developing software from scratch and maintaining large existing projects.
 
 Area of expertise :
-- Core Java, Spring MVC, Spring Boot, Webservices, REST API design and development
+- Core Java, Spring MVC, Spring Boot, REST API design and development
 - Horizontally scalable and highly available systems design & development
 - Automating development workflows and deployment pipelines
 - Leveraging Micro-service architecture for system design and development
@@ -16,7 +16,7 @@ Area of expertise :
 - Monitoring, log aggregation
 
 Skills & Technologies:
-- Java/Spring MVC/ Spring Boot
+- Java/ Spring MVC/ Spring Boot
 - Webservices/ RESTful API
 - Selenium and Junit 
 - PostgreSQL, MySQL, Oracle DB, MongoDB, ElasticSearch
@@ -24,8 +24,8 @@ Skills & Technologies:
 - Maven and ANT build tools
 - Git, Bitbucket, Subversion : version control tools
 - Code Quality: 
-- Eclipse/ Visual Studio Code IDEs
 - Digital Ocean, AWS, Azure Cloud Platforms
+- Eclipse/ Visual Studio Code IDEs
 - Linux, macOS, Windows 
 
 Interested in developing highly scalable distributed systems.
