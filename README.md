@@ -16,11 +16,12 @@ Skills & Technologies/ Platforms :
 - HTML/CSS, Javascript
 - Webservices/ RESTful API
 - Selenium and Junit 
-- PostgreSQL, MySQL, Oracle DB, MongoDB, ElasticSearch
+- PostgreSQL, MySQL, Oracle DB, MongoDB
 - Websphere, Weblogic, Tomcat Application Servers
 - Maven and ANT build tools
+- CI/CD : Jenkins Pipelines
 - Git, Bitbucket, Subversion : version control tools
-- Digital Ocean, AWS, Azure Cloud Platforms
+- Digital Ocean, AWS, GCP
 - Eclipse/ Visual Studio Code IDEs
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=rachitasingh1&show_icons=true&theme=radical)
