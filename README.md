@@ -23,6 +23,8 @@ Skills & Technologies/ Platforms :
 - Digital Ocean, AWS, Azure Cloud Platforms
 - Eclipse/ Visual Studio Code IDEs
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=rachitasingh1&show_icons=true&theme=radical)
+
 <h2 align="left">Reach me at:</h2>
 
 <strong> [Linkedin](https://linkedin.com/in/atihcar)</strong>   <strong> [Twitter](https://twitter.com/atihcars)</strong>   <strong> [Github](https://github.com/rachitasingh1)</strong>
