@@ -1,9 +1,9 @@
 ### Hello! 👋 I am RACHITA.
 
 Welcome to Github. 
-I am a Full Stack Java Developer and a Product Enthusiast.
+I am a Java Backend Developer and a Product Enthusiast.
 
-🔭 Currently learning from the web and working on creating mini projects in spring, html, css and javascript. 
+🔭 Currently learning from the web and working on creating mini projects in spring boot, html, css and javascript. 
 
 Areas of Expertise :
 - Core Java, Spring MVC, Spring Boot, REST API design and development
