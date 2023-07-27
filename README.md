@@ -10,7 +10,7 @@ Areas of Expertise :
 - Automating development workflows and deployment pipelines
 - Leveraging Micro-service architecture for system design and development
 - Designing and developing Web based applications
-
+<!---
 Skills & Technologies/ Platforms :
 - Java, Spring, Spring Boot
 - HTML/CSS, Javascript
@@ -29,7 +29,7 @@ Skills & Technologies/ Platforms :
 <h2 align="left">Reach me at:</h2>
 
 <strong> [Linkedin](https://linkedin.com/in/atihcar)</strong>   <strong> [Twitter](https://twitter.com/atihcars)</strong>   <strong> [Github](https://github.com/rachitasingh1)</strong>
-
+-->
 <!---
 rachitasingh1/rachitasingh1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
