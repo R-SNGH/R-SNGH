@@ -6,7 +6,7 @@ I am a Java Backend Developer and a Product Enthusiast.
 🔭 Currently learning from the web and working on creating mini projects in spring boot, html, css and javascript. 
 
 Areas of Expertise :
-- Core Java, Spring MVC, Spring Boot, REST API design and development
+- Core Java, Spring, Spring Boot, REST API design and development
 - Automating development workflows and deployment pipelines
 - Leveraging Micro-service architecture for system design and development
 - Designing and developing Web based applications
