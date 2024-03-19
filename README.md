@@ -3,7 +3,7 @@
 Welcome to Github. 
 I am a Java Backend Developer and a Product Enthusiast.
 
-🔭 Currently learning from the web and working on creating mini projects in spring boot, html, css and javascript. 
+🔭 Currently learning React and working on creating mini projects in spring boot, html, css and javascript. 
 
 Areas of Expertise :
 - Core Java, Spring, Spring Boot, REST API design and development
