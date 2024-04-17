@@ -1,15 +1,14 @@
 ### Hello! 👋 I am RACHITA.
 
-Welcome to Github. 
-I am a Java Backend Developer and a Product Enthusiast.
+A Java Backend Developer and a Product Enthusiast.
 
-🔭 Currently learning React and working on creating mini projects in spring boot, html, css and javascript. 
+🔭 Currently learning React and working on creating mini projects in Spring Boot, HTML, CSS and JavaScript. 
 
-Areas of Expertise :
+<!--Areas of Expertise :
 - Core Java, Spring, Spring Boot, REST API design and development
 - Automating development workflows and deployment pipelines
 - Leveraging Micro-service architecture for system design and development
-- Designing and developing Web based applications
+- Designing and developing Web based applications-->
 <!---
 Skills & Technologies/ Platforms :
 - Java, Spring, Spring Boot
